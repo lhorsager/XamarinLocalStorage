@@ -1,0 +1,35 @@
+# Version: 7.2.2.2 (db4427f)
+# [first argument, ignore] # /Users/lorenhorsager/Projects/XamarinLocalStorage/XamarinLocalStorage/XamarinLocalStorage/bin/iPhone/Debug/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/lorenhorsager/Projects/XamarinLocalStorage/XamarinLocalStorage/XamarinLocalStorage/obj/iPhone/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-dev \
+	/Users/lorenhorsager/Projects/XamarinLocalStorage/XamarinLocalStorage/XamarinLocalStorage/bin/iPhone/Debug/XamarinLocalStorage.app \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Users/lorenhorsager/Desktop/code/XamarinComponents/simple-storage-1.2/lib/ios/SimpleStorage.iOS.dll \
+	-r \
+	/Users/lorenhorsager/Desktop/code/XamarinComponents/sqlite-net-1.0.1/lib/ios/SQLite.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/Mono.Data.Sqlite.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Data.dll \
+	-debug \
+	-linksdkonly \
+	-sdk \
+	7.1 \
+	-targetver \
+	7.0 \
+	--abi=armv7 \
+	/Users/lorenhorsager/Projects/XamarinLocalStorage/XamarinLocalStorage/XamarinLocalStorage/bin/iPhone/Debug/XamarinLocalStorage.exe \

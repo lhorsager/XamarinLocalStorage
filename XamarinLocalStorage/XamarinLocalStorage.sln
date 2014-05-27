@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinLocalStorage", "XamarinLocalStorage\XamarinLocalStorage.csproj", "{4D5AC229-E63E-4C58-978D-B04F3C49CC39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D5AC229-E63E-4C58-978D-B04F3C49CC39}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{4D5AC229-E63E-4C58-978D-B04F3C49CC39}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{4D5AC229-E63E-4C58-978D-B04F3C49CC39}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{4D5AC229-E63E-4C58-978D-B04F3C49CC39}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{4D5AC229-E63E-4C58-978D-B04F3C49CC39}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{4D5AC229-E63E-4C58-978D-B04F3C49CC39}.Debug|iPhone.Build.0 = Debug|iPhone
+		{4D5AC229-E63E-4C58-978D-B04F3C49CC39}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{4D5AC229-E63E-4C58-978D-B04F3C49CC39}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{4D5AC229-E63E-4C58-978D-B04F3C49CC39}.Release|iPhone.ActiveCfg = Release|iPhone
+		{4D5AC229-E63E-4C58-978D-B04F3C49CC39}.Release|iPhone.Build.0 = Release|iPhone
+		{4D5AC229-E63E-4C58-978D-B04F3C49CC39}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{4D5AC229-E63E-4C58-978D-B04F3C49CC39}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = XamarinLocalStorage\XamarinLocalStorage.csproj
+	EndGlobalSection
+EndGlobal

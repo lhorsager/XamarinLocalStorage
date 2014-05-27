@@ -1,0 +1,11 @@
+/Users/lorenhorsager/Projects/XamarinLocalStorage/XamarinLocalStorage/XamarinLocalStorage/obj/iPhone/Debug/mtouch-cache/Link/System.Core.dll
+/Users/lorenhorsager/Projects/XamarinLocalStorage/XamarinLocalStorage/XamarinLocalStorage/obj/iPhone/Debug/mtouch-cache/Link/SimpleStorage.iOS.dll
+/Users/lorenhorsager/Projects/XamarinLocalStorage/XamarinLocalStorage/XamarinLocalStorage/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/lorenhorsager/Projects/XamarinLocalStorage/XamarinLocalStorage/XamarinLocalStorage/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/lorenhorsager/Projects/XamarinLocalStorage/XamarinLocalStorage/XamarinLocalStorage/obj/iPhone/Debug/mtouch-cache/Link/SQLite.dll
+/Users/lorenhorsager/Projects/XamarinLocalStorage/XamarinLocalStorage/XamarinLocalStorage/obj/iPhone/Debug/mtouch-cache/Link/XamarinLocalStorage.exe
+/Users/lorenhorsager/Projects/XamarinLocalStorage/XamarinLocalStorage/XamarinLocalStorage/obj/iPhone/Debug/mtouch-cache/Link/Mono.Data.Sqlite.dll
+/Users/lorenhorsager/Projects/XamarinLocalStorage/XamarinLocalStorage/XamarinLocalStorage/obj/iPhone/Debug/mtouch-cache/Link/System.Data.dll
+/Users/lorenhorsager/Projects/XamarinLocalStorage/XamarinLocalStorage/XamarinLocalStorage/obj/iPhone/Debug/mtouch-cache/Link/System.Xml.dll
+/Users/lorenhorsager/Projects/XamarinLocalStorage/XamarinLocalStorage/XamarinLocalStorage/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+/Users/lorenhorsager/Projects/XamarinLocalStorage/XamarinLocalStorage/XamarinLocalStorage/obj/iPhone/Debug/mtouch-cache/Link/System.Transactions.dll
